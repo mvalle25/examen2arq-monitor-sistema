@@ -4,7 +4,6 @@ Dashboard de monitoreo de sistema usando Django y psutil.
 Integrantes Examen II Parcial Arquitectura:
 + Marlon Orlando Valle Funez 231053003
 + David Alfredo Espinal Aguilar 201610060217
-+ Kevin Javier Espinal Aguilera 202210110039
 
 
 # 📊 Monitor de Sistema con Django y psutil
